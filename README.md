@@ -1,1 +1,1 @@
-Here is my [progress journal](https://github.com/idilkylmz/idilkylmz.github.io)
+Here is my [progress journal](https://idilkylmz.github.io/)
